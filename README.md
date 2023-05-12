@@ -29,6 +29,7 @@ with the help of silhouette score
 The students will get a better understanding of how the variables are
 linked to each other and will be able to apply cluster analysis to business
 problem such as customer segmentation.
+
 ----------------------------------------------------
 # Workflow
 - Importing required libraries like pandas, numpy, matplotlib, plotly, sklearn-cluster kmeans,silhouette_score,KElbowVisualizer
