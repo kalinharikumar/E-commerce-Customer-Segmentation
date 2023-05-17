@@ -43,4 +43,4 @@ problem such as customer segmentation.
 - grouping customers with number of orders and total searches
 - finally giving conclusion for each strategy/criteria.
 # Demo:
-[video will be shared soon](https://www.linkedin.com/posts/kalin-harikumar-230349140_project-guvi-ecommerceabrcustomerabrsegmentation-activity-7064665802444046337-U63h?utm_source=share&utm_medium=member_desktop)
+[check out the linkedin post for demo video](https://www.linkedin.com/posts/kalin-harikumar-230349140_project-guvi-ecommerceabrcustomerabrsegmentation-activity-7064665802444046337-U63h?utm_source=share&utm_medium=member_desktop)
